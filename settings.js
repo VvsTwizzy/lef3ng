@@ -1,6 +1,6 @@
 const settings = {
-  packname: 'Knight',
-  author: 'Bot',
+  packname: 'lef3ng†',
+  author: '★LEFENG★',
   botName: "LEF3NG BOT 🕴🏽",
   botOwner: 'lef3ng†🕴🏽', // Your name
   ownerNumber: '27630092157', //Your number
